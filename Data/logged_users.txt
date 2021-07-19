@@ -1,0 +1,4 @@
+124;aaa@yahoo.com;1;12/04/2021
+125;bbb@gmail.com;1;12/04/2021
+126;ccc@gmail.com;0;12/04/2021
+127;ddd@gmail.com;0;12/04/2021
